@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# iiCnma
+# MovieMingle
 A playground android app, showcasing the latest technologies and architecture patterns using the [Movie Database](https://www.themoviedb.org/) APIs.
 
 # Demo
@@ -34,7 +33,3 @@ Clone the repository and get an [API key](https://www.themoviedb.org/settings/ap
 ```properties
 apikey="YOUR_API_KEY"
 ```
-=======
-# MovieMingle-kotlin
-user-friendly Android app designed to enhance your movie-watching adventure
->>>>>>> origin/main
