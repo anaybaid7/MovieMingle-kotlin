@@ -110,7 +110,7 @@ dependencies {
     testImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutine_version"
     androidTestImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutine_version"
 
-    def core_testing = "2.1.0"
+    def core_testing = "2.2.0"
     testImplementation "androidx.arch.core:core-testing:$core_testing"
     androidTestImplementation "androidx.arch.core:core-testing:$core_testing"
 
